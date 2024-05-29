@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+  color: gray;
+}
+body {
+  background-color: skyblue;
+}
+#net {
+  width: 670px;
+  height: 400px;
+}
+#nety {
+  border: 1px black solid;
+  width: 670px;
+}
+#gitL {
+  border: 2px solid black;
+  width: 670px;
+}
+
+#verr {
+  border: 3px solid greenyellow;
+  width: 670px;
+}
+
+#d {
+  border: 3px solid saddlebrown;
+  width: 670px;
+}
+
+#jem {
+  border: 3px solid red;
+  width: 670px;
+}
+
+#abi {
+  border: 3px solid darkblue;
+  width: 670px;
+}
+
+#sl {
+  border: 3px solid darkgoldenrod;
+  width: 670px;
+}
+
+#ju {
+  border: 3px solid lemonchiffon;
+  width: 670px;
+}
+
+#sel {
+  border: 3px solid crimson;
+  width: 670px;
+}
+#col {
+  border: 3px solid teal;
+  width: 670px;
+}
